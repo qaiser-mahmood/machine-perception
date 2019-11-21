@@ -1,0 +1,6 @@
+Building 10 to the right
+Building 09 to the right
+Building 216 to the right
+Building 500 to the left
+Building 212 to the left
+Building 406
